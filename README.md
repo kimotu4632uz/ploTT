@@ -1,6 +1,6 @@
-# TT_plot-code
+# ploTT
 
-vscode で TT(Tensor-Train)形式をプレビューする拡張機能
+vscode で Tensor-Train(TT)形式をプレビューする拡張機能
 
 ## 使い方
 
